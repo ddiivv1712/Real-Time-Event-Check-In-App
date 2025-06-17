@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Event Check-In",
+    "slug": "event-checkin",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#007bff"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
